@@ -1,0 +1,35 @@
+.content {
+  outline: 1px solid #333;
+  display: inline-block;
+  width: 1200px;
+  vertical-align: center;
+}
+  
+.article {
+  outline: 1px solid #333;
+  padding: 8px;
+  display: inline-block;
+  width: 420px;
+  margin-left: 100px;
+  margin-right: 12px;
+  margin-bottom: 16px;
+  border-radius: 4px;
+  box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.1);
+}
+  
+.article:nth-child(2n) {
+  outline: 1px solid #333;
+  margin-right: 0;
+}
+  
+.article-img {
+  outline: 1px solid #333;
+  display: block;
+  width: 100%;
+  margin-bottom: 8px;
+}
+  
+.article-title {
+  outline: 1px solid #333;
+  margin-bottom: 8px;
+}
