@@ -1,0 +1,12 @@
+{
+    «printWidth»: 80,
+    «tabWidth»: 2,
+    «useTabs»: false,
+    «semi»: true,
+    «singleQuote»: true,
+    «trailingComma»: «все»,
+    «bracketSpacing»: true,
+    «jsxBracketSameLine»: false,
+    «arrowParens»: «избегать»,
+    «proseWrap»: «всегда»
+  }
