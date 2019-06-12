@@ -4,6 +4,39 @@ h1 {
   font-size: 140px;
 }
 
-div {
+/* article {
   color: blue;
+} */
+
+.article {
+  background-color: burlywood;
+}
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: red;
+}
+
+.orange {
+  color: orange;
+}
+
+.big-text {
+  font-size: 50px;
+}
+
+/*    Список     */
+.list {
+  background-color: aquamarine;
+}
+
+.list-item {
+  font-size: 25px;
+  background-color: brown;
+}
+.list-link {
+  color: #fefefe;
 }
