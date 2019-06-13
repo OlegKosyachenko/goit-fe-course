@@ -40,3 +40,7 @@ h1 {
 .list-link {
   color: #fefefe;
 }
+
+.list-link:hover {
+  background-color: blueviolet;
+}
