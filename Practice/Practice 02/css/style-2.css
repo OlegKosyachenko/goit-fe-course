@@ -74,3 +74,9 @@ h1 {
 .blue {
   background-color: orange;
 }
+
+.margin-example {
+  width: 300px;
+  height: 100px;
+  background-color: #333;
+}
