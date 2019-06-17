@@ -1,5 +1,8 @@
 .page-header {
-  outline: 1px solid #333;
+  padding: 4px 16px;
+  margin-bottom: 16px;
+  border-radius: 2px;
+  box-shadow: 0 0 3px 3px rgba(0, 0, 0, 0.3);
 }
 
 .logo {
@@ -13,6 +16,7 @@
 
 .menu {
   display: inline-block;
+  margin-left: 540px;
   list-style: none;
   font-size: 0px;
 }
@@ -28,7 +32,14 @@
 }
 
 .menu-link {
-  outline: 1px solid #333;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  padding: 4px;
+  color: #333;
   text-transform: uppercase;
   text-decoration: none;
+}
+
+.menu-link:hover {
+  border: 1px solid #333;
 }
