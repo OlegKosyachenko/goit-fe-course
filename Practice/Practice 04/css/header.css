@@ -1,19 +1,22 @@
-.page-header {
+/* .page-header {
   padding: 4px 16px;
   margin-bottom: 16px;
-  border-radius: 2px;
+  border-radius: 2px; */
 }
 
 .menu {
   display: inline-block;
-  margin-left: 540px;
+  /* Style for "menu" */
+width: 573px;
+height: 11px;
+  margin: auto;
   list-style: none;
-  font-size: 0px;
+  font-size: 0;
 }
 
 .menu-item {
   display: inline-block;
-  margin-right: 10px;
+  margin: auto;
   font-size: 16px;
 }
 
