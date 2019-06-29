@@ -1,9 +1,6 @@
 .menu {
-  /* Style for "menu" */
   display: inline-block;
-  /* width: 573px;
-  height: 11px; */
-  /* margin: auto; */
+  margin-bottom: 104px;
 }
 
 .menu-item {
@@ -22,7 +19,6 @@
   line-height: 24px;
   text-transform: uppercase;
   text-decoration: none;
-  /* Text style for "l, ifestyl" */
   color: rgb(3, 169, 244);
   margin-left: 313px;
 }
